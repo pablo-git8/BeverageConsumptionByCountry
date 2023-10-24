@@ -1,4 +1,6 @@
-# BeverageConsumptionByCountry
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 
 This repository contains a mini-project that dives into the analysis of alcoholic beverage consumption across various countries. The analysis was done using a Jupyter notebook, leveraging Python libraries such as pandas, numpy, matplotlib, and seaborn.
 
