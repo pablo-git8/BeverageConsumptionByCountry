@@ -23,7 +23,7 @@ The dataset comprises several attributes:
 
 To dive into the analysis, you can open the Jupyter notebook provided in this repo. Ensure you have Jupyter installed and the necessary libraries. You can install them using pip:
 
-`pip` `install` `pandas` `numpy` `matplotlib` `seaborn` `jupyterlab`
+pip install `pandas` `numpy` `matplotlib` `seaborn` `jupyterlab`
 
 
 This will open up Jupyter Lab where you can find the notebook and run it interactively.
